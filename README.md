@@ -4,15 +4,14 @@
 
 ### 🤔 Where can you find me?
 
+My email: k.pirinen.rus@gmail.com, 
+
+or you can just send me a message in telegram:
 <a href="http://t.me/KirillPirinen">
   <img align="left" alt="Kirill Pirinen | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
-<a href="https://www.instagram.com/k.blkptv/">
-  <img align="left" alt="Kirill Pirinen | Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/640px-Instagram.svg.png" />
-</a>
-<a href="https://e.mail.ru/cgi-bin/sentmsg?To=kbelokopytov99@mail.ru&from=otvet&afterReload=1">
-  <img align="left" alt="Kirill Pirinen | Mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Spark_App_Logo.svg/1200px-Spark_App_Logo.svg.png" />
-</a>
+
+
 
 <br />
 
