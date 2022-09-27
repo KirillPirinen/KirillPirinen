@@ -1,4 +1,4 @@
-## Hi there !  I'm Kirill and I'am a JavaScript Developer from Moscow!
+## Hi there !  I'm Kirill and I'am a JavaScript Developer
 
 - 🤟 I like to write code!
 
